@@ -1,0 +1,4 @@
+[submodule "modules/core-as3"]
+	path = modules/core-as3
+	url = git@bitbucket.org:imagination/9084-app-core-v2.git
+	branch = proj/TestModProj
